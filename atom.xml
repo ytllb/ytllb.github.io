@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ytllb.github.io</id>
+    <title>KCMC 亚特兰共和国</title>
+    <updated>2021-03-14T08:57:04.358Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ytllb.github.io"/>
+    <link rel="self" href="https://ytllb.github.io/atom.xml"/>
+    <subtitle>KCMC 亚特兰共和国</subtitle>
+    <logo>https://ytllb.github.io/images/avatar.png</logo>
+    <icon>https://ytllb.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, KCMC 亚特兰共和国</rights>
+    <entry>
+        <title type="html"><![CDATA[关于亚特兰共和国]]></title>
+        <id>https://ytllb.github.io/post/1/</id>
+        <link href="https://ytllb.github.io/post/1/">
+        </link>
+        <updated>2021-03-14T07:31:22.000Z</updated>
+        <content type="html"><![CDATA[<p>亚特兰共和国的各位，早上好中午好晚上好~<br>
+-本国建立于2021年3月8日8点<br>
+-主城为亚特兰市-<br>
+我是亚特兰共和国领袖Yun_Jie<br>
+以后有事我都会在这宣布哦<br>
+=在亚特兰共和国你可以随心所欲 =<br>
+干任何你想做的事<br>
+但是要做好承担后果的准备<br>
+这里充斥着<br>
+=和平和战争 =<br>
+=财富和贫穷 =<br>
+=欢喜与悲伤 =<br>
+也许，这就是人生吧<br>
+国家欢迎所有的城镇加入，等云杰有时间会亲自来你的城镇审核一下即可加国家</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑名单]]></title>
+        <id>https://ytllb.github.io/post/0/</id>
+        <link href="https://ytllb.github.io/post/0/">
+        </link>
+        <updated>2021-03-14T07:28:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>=<mark>亚特兰共和国黑名单规则</mark>=<br>
+2021/3/10开始实施</p>
+<ul>
+<li>分数判断规则：<br>
+S级：50<br>
+A级：30-49<br>
+B级：10-29<br>
+C级：5-9</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<p>=<mark>亚特兰共和国黑名单规则</mark>=<br>
+2021/3/10开始实施</p>
+<ul>
+<li>分数判断规则：<br>
+S级：50<br>
+A级：30-49<br>
+B级：10-29<br>
+C级：5-9</li>
+</ul>
+<!-- more -->
+<ul>
+<li>分数加减规则：<br>
+与共和国敌对：直接S级<br>
+破坏城镇：+10<br>
+恶意杀人：+8<br>
+卖假货：+8<br>
+与S级交易或帮助S级：+10<br>
+偷东西：+10<br>
+骗人，卖假货：+5<br>
+击杀S级：-5(每天限一次)<br>
+帮助城镇建设大型建筑：-5(需证明)</li>
+</ul>
+]]></content>
+    </entry>
+</feed>
